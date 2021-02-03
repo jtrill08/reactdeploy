@@ -1,0 +1,15 @@
+.primary {
+    color: orange;
+}
+.app{
+    background-color: white;
+}
+
+textarea{
+
+    background-color: seagreen;
+}
+
+h1{
+    font-size: 12px;
+}
